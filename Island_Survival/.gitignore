@@ -19,3 +19,5 @@ Build/*
 Windows/*
 
 *.uasset
+*.umap
+
